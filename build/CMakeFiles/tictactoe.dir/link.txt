@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tictactoe.dir/main.cpp.o -o tictactoe   -L/home/luk/Documents/TicTacToe/Helper  -Wl,-rpath,/home/luk/Documents/TicTacToe/Helper Helper/libHelper.a 
